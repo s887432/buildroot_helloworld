@@ -6,3 +6,4 @@ hello_world: main.c
 
 clean:
     rm hello_world
+
